@@ -1,6 +1,8 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #fffff3;
+  color: #000000;
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 nav {
@@ -50,3 +52,24 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+
+h1 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.15em;
+}
+
+p {
+  font-size: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link { color:#f68657; }
+a:visited{ color:#383a3f; }
+a:hover{ color:#f6b352; }
+a:active{ color:#1f2124; }
